@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "HeritageBlazor.WinUI": {
+      "commandName": "AppContainer"
+    }
+  }
+}
